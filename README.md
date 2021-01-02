@@ -18,7 +18,6 @@ Some fatcs about me:
     * Matlab
  - I am very eager to learn and love to try new things
  - My passion is to build things that gain insights to help people
- - On of my biggest dreams is to travel to Kazakhstan one time
 
 
   
