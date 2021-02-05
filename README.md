@@ -17,7 +17,13 @@ Some fatcs about me:
     * R
     * Matlab
  - I am very eager to learn and love to try new things
-
+ 
+ ___
+ Short Description of old Projects:
+ - <a href = https://github.com/stefan-schwingenschloegl/Wiener-Linien-Project>Wiener-Linien-Project</a>
+    * Collect data from the <a href = http://www.wienerlinien.at/ogd_realtime/doku/>Wiener Linien Realtime API</a> and analyse it to identify the stations where delays in Vienna's public transport system are more frequent.
+    * Used Languages: python, SQL
+    * Skills I want to learn or improve through this: Data Collection, API Calls, Database Connection through ODBC, working with SQL 
 
   
 <!--
