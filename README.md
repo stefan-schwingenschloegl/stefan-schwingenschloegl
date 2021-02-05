@@ -20,8 +20,8 @@ Some fatcs about me:
  
  ___
  Short Description of old Projects:
- - <a href = https://github.com/stefan-schwingenschloegl/Wiener-Linien-Project, target="_blank">Wiener-Linien-Project</a>
-    * Collect data from the <a href = http://www.wienerlinien.at/ogd_realtime/doku/, target="_blank">Wiener Linien Realtime API</a> and analyse it to identify the stations where delays in Vienna's public transport system are more frequent.
+ - <a href = "https://github.com/stefan-schwingenschloegl/Wiener-Linien-Project" target="_blank">Wiener-Linien-Project</a>
+    * Collect data from the <a href = "http://www.wienerlinien.at/ogd_realtime/doku/" target="_blank">Wiener Linien Realtime API</a> and analyse it to identify the stations where delays in Vienna's public transport system are more frequent.
     * Used Languages: Python, SQL
     * Skills I want to learn or improve through this: Data Collection, API Calls, Database Connection through ODBC, working with SQL 
 
