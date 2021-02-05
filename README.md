@@ -1,6 +1,6 @@
 ### Hello World
 
-My name is Stefan Schwwingenschlögl and I am currently working towards becoming a Data Scientist. On this page you can see my personal projects with which I try to improve my personal skills. <br>
+My name is Stefan Schwingenschlögl and I am currently working towards becoming a Data Scientist. On this page you can see my personal projects with which I try to improve my personal skills. <br>
 ___
 - Name of my current main project: Wiener-Linien-Project (Python)
   - What is it all about: Collect data from an API, write it into a relational Database and analyze it
