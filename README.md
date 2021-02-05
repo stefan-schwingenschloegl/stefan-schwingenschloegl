@@ -17,7 +17,6 @@ Some fatcs about me:
     * R
     * Matlab
  - I am very eager to learn and love to try new things
- - My passion is to build things that gain insights to help people
 
 
   
