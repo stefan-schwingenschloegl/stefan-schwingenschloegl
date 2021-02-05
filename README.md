@@ -9,8 +9,8 @@ ___
 ___
 
 Some fatcs about me:
-- I am currently in my Bachelor Studies of `Data Science & Business Analytics` at the University of Applied Sciences St. Pölten
-- I graduated from the Bachelor Studies `Sports Equipment Technology` at the University of Applied Sciences Technikum Wien in 2019
+- I am currently in my Bachelor Studies of <i>Data Science & Business Analytics</i> at the University of Applied Sciences St. Pölten
+- I graduated from the Bachelor Studies <i>Sports Equipment Technology</i> at the University of Applied Sciences Technikum Vienna in 2019
 - Programming Languages I have at least a basic knowledge about: 
     * Python
     * SQL
