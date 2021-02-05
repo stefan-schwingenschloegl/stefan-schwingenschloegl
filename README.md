@@ -2,9 +2,9 @@
 
 My name is Stefan Schwingenschlögl and I am currently working towards becoming a Data Scientist. On this page you can see my personal projects with which I try to improve my personal skills. <br>
 ___
-- Name of my current main project: Wiener-Linien-Project (Python)
-  - What is it all about: Collect data from an API, write it into a relational Database and analyze it
-  - Skills I want to learn or improve through this: Data Collection, API Calls, Database Connection through ODBC, working with SQL
+- Name of my current main project:<a href = "https://github.com/stefan-schwingenschloegl/Humidity-Sensor-Project" target="_blank">Humidity-Sensor-Project</a> (Arduino, Python)
+  - What is it all about: Collect temperature and humidity with an Elegoo UNO, send it to Laptop via Bluetooth, create a Dashboard using Plotly(+Dash) and analyze it
+  - Skills I want to learn or improve through this: Sensor Data Collection with Arduino, Serial Communication, Data Logging, Dashboard Creation with Plotly
 - How to reach out to me: stefan.roland.schwingenschloegl@gmail.com
 ___
 
